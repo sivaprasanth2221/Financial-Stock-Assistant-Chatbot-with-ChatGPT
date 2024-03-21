@@ -5,6 +5,7 @@ Install the packages:
     pip install matplotlib
     pip install yfinance
     pip install streamlit
+    pip install watchdog
 
 Create a API_KEY file and add your OpenAI API KEY
 
