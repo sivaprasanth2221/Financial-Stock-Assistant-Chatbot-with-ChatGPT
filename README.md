@@ -37,10 +37,5 @@
 - Ensure you have an active internet connection as the app fetches data from Yahoo Finance.
 - This chatbot assistant is for educational and demonstration purposes and should not be used for real financial decisions without proper verification.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 You can create a `LICENSE` file with the MIT License text and include any additional information or acknowledgments in the README.md file. This README provides an overview of the project, installation instructions, usage guidelines, and notes for users.
