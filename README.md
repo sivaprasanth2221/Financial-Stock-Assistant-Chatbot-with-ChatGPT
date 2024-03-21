@@ -12,3 +12,4 @@ Create a API_KEY file and add your OpenAI API KEY
 To run main.py, run the following command in terminal:
     
     streamlit run main.py
+Then enter your Mail ID corresponding to the given API KEY
